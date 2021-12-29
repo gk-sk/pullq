@@ -14,7 +14,7 @@ body
 	font-family: 'Open Sans', sans-serif;
 }
 
-.form-control{color:#BDFEF2;}
+.form-control{color: #aeaeae;;}
 
 #wrapper
 {
@@ -36,14 +36,12 @@ header
 }
 .text {
 
-    color: #BDFEF2;
-    font-size:12px;
+    color: #9aedde    font-size:12px;
     font-style: italic;padding-left:12px;
 
 }
 .logo img {
-    border-right: 1px solid #BDFEF2;
-    padding-right: 12px;width:220px;
+    border-right: 1px solid #9aedde    padding-right: 12px;width:220px;
 
 }
 button {
@@ -60,8 +58,7 @@ button {
 .search{ float: right;}
 .search1 i, .search i{    position: absolute;
     margin: 14px 12px;
-    color: #BDFEF2;
-    cursor: pointer;
+    color: #9aedde    cursor: pointer;
 }
 .search1 input,
 .search input {
@@ -93,8 +90,7 @@ ul.navbar-nav {
 .dvider {
 
     height: 90px;
-    border: 1px solid #BDFEF2;
-
+    border: 1px solid #9aedde
     margin: 0px 40px;
     display: inline-block;
 
@@ -113,8 +109,7 @@ ul.navbar-nav {
 }
 
 .navbar-nav>li a {
-    color: #BDFEF2;
-    text-decoration: none;
+    color: #9aedde    text-decoration: none;
     display: block;
     padding: 15px 13px; font-size:14px;
 	transition:all 0.5s ease;
@@ -392,8 +387,7 @@ margin:30px 0px 0px 0px;
 margin:0px;
     border-top: 1px solid #fff;
 padding: 20px 0px;}
-.navbar-default .navbar-nav>li a{    color: #BDFEF2;
-    text-decoration: none;
+.navbar-default .navbar-nav>li a{    color: #9aedde    text-decoration: none;
     display: block;
     padding: 15px 13px;
     font-size: 14px;
@@ -548,8 +542,7 @@ margin:30px 0px 0px 0px;
 
 .navbar-nav {margin: 14.5px auto;}
 
-.navbar-default .navbar-nav>li a{    color: #BDFEF2;
-    text-decoration: none;
+.navbar-default .navbar-nav>li a{    color: #9aedde    text-decoration: none;
     display: block;
     padding: 15px 13px;
     font-size: 14px;
