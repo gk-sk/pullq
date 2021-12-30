@@ -155,7 +155,7 @@ color: #fff;line-height: 45px;
 
     text-align: center;
     margin: 10px 0px;
-    background-color: background-color: #51B5B1;
+    background-color: background-color: #51B8B2;
     background-color: #51B5B1;
     border-radius: 40px;
     padding: 10px 40px;
@@ -179,7 +179,7 @@ button.navbar-toggler {
 
     font-size: 26px;
     font-weight: 800;
-    color: #373737;
+    color: #bdfef2;
 
 }
 .adj_text p {
@@ -220,22 +220,22 @@ width: 100%;}
     font-size:16px;
 }
 .mobileImg{display: none;}
-footer {background-color: #F2F2F2; position:relative;margin-top: 20px;    height: 350px;
+footer {background-color: #bdfef2; position:relative;margin-top: 20px;    height: 350px;
     max-height: 380px;
     min-width: 320px;
     overflow: hidden;
 }
 .main-footer{padding-left:0px;}
-.btn-oval{background-color: #51B5B1;border-radius: 40px;
-padding:10px 30px;	color: #FFFFFF;	font-family: "Open Sans";	font-size: 12px;	font-weight: 600;	line-height: 17px;	text-align: center;}
+.btn-oval{background-color: #bdfef2;border-radius: 40px;
+padding:10px 30px;	color: #bdfef2;	font-family: "Open Sans";	font-size: 12px;	font-weight: 600;	line-height: 17px;	text-align: center;}
 .quick-links{list-style:none;}
 .links { padding: 66px 0px 0px;}
-.quick-links li a{color: #5E5E5E;	font-family: "Open Sans";	font-size: 14px;	line-height: 34px;}
+.quick-links li a{color: #bdfef2;	font-family: "Open Sans";	font-size: 14px;	line-height: 34px;}
 .foter-logo{padding: 70px 0px;}
 .video-sec{position:absolute; top:0px; right:0px; padding:20px 20px 100px;
 
     background: #000;
-    color: #fff;
+    color: #bdfef2;
 }
 .video-heading.text-center {
 
@@ -257,12 +257,12 @@ padding:10px 30px;	color: #FFFFFF;	font-family: "Open Sans";	font-size: 12px;	fo
 .adj1.text-center h3 {
 
     font-size: 20px;
-    color: #1B526D;
+    color: #bdfef2;
     font-style: italic;
 padding: 0px 30px;}
 .adj1 p{padding: 0px 16%;
     font-size: 14px;
-    color: #373737;
+    color: #bdfef2;
 
 }
 .readtext {
